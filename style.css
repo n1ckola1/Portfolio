@@ -2,17 +2,17 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: Catalina;
 }
 
 @font-face {
   font-family: "Catalina";
-  src: url(/ofont.ru_Catallina.ttf);
+  src: url(Catallina.otf);
 }
 
 body {
   background: #18160f;
   color: #8b7f60;
+  font-family: Catalina;
 }
 
 .header {
